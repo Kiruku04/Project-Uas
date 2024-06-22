@@ -1,13 +1,13 @@
 joblib==1.4.2
 scikit-learn==1.5.0
-pip install nltk
+uv pip install nltk
 
-pip install numpy
+uv pip install numpy
  
-pip installpandas
+uv pip installpandas
 
-pip install streamlit
+uv pip install streamlit
 
-pip install matplotlib
+uv pip install matplotlib
 
-pip install re
+uv pip install re
